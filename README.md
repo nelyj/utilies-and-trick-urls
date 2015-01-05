@@ -1,7 +1,7 @@
 utilies-and-trick-urls
 ======================
 
-Urls tools from frontend and backend productivity
+Url tools for frontend and backend programmer productivity
 
 Playlist music for programmer
 - Pinterest Team [https://play.spotify.com/user/tinamirtha/playlist/4i2q9eyqv7cBkKm6ZynPDl]
