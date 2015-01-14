@@ -10,3 +10,9 @@ Playlist music for programmer
 - Facebook Paper Team [https://play.spotify.com/user/tinamirtha/playlist/23V4rpgCol877ODbu0Z3Mz]
 
 Test for your css files [http://cssstats.com/]
+
+Test your website speed [http://www.webpagetest.org/]
+
+Post about alias in git [http://viget.com/inspire/terminal-aliases-for-git]
+
+Post about speed up and tricks in rails application [http://viget.com/extend/rails-front-end-performance]
