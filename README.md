@@ -3,6 +3,8 @@ utilies-and-trick-urls
 
 Url tools for frontend and backend programmer productivity
 
+Learn ruby [https://rubymonk.com/]
+
 Playlist music for programmer
 - Pinterest Team [https://play.spotify.com/user/tinamirtha/playlist/4i2q9eyqv7cBkKm6ZynPDl]
 - Snapchat Team [https://play.spotify.com/user/tinamirtha/playlist/4I34Yxs0xrWPiS44zub8Tp]
