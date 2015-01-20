@@ -20,3 +20,5 @@ Post about alias in git [http://viget.com/inspire/terminal-aliases-for-git]
 Post about speed up and tricks in rails application [http://viget.com/extend/rails-front-end-performance]
 
 Build your site with evidence, no false belief [http://uxmyths.com/]
+
+Free DNS [https://dns.he.net/]
