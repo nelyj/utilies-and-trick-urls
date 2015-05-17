@@ -11,6 +11,14 @@ Playlist music for programmer
 - Spotify Team [https://play.spotify.com/user/andreas.blixt/playlist/1itC2kKqIqun8OU05J5G8v]
 - Facebook Paper Team [https://play.spotify.com/user/tinamirtha/playlist/23V4rpgCol877ODbu0Z3Mz]
 
+Grunt - Upload your yeoman app in s3 [https://github.com/jpillora/grunt-aws]
+
+Track error in your application [https://getsentry.com/]
+
+node.js Spanish course  [https://www.youtube.com/watch?v=HcwgOdMrgR0&list=PLBEwfn9JYDc9VWYSsdmyr_4HNl7mCfjo8&index=1]
+
+Best practices for angular.js [http://twofuckingdevelopers.com/]
+
 Test for your css files [http://cssstats.com/]
 
 Test your website speed [http://www.webpagetest.org/]
