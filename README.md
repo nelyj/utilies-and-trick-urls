@@ -31,3 +31,7 @@ Post about speed up and tricks in rails application [http://viget.com/extend/rai
 Build your site with evidence, no false belief [http://uxmyths.com/]
 
 Free DNS [https://dns.he.net/]
+
+Stress Test tool (Open Source) for your application [http://locust.io/]
+
+Track your application bug [http://getsentry.com]
