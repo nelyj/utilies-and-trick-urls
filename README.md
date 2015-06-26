@@ -39,3 +39,5 @@ Track your application bug [http://getsentry.com]
 HTML5 Templates Free[http://html5up.net/]
 
 Website metric template[http://metric.webflow.io/]
+
+Using Yeoman and Jade[https://gist.github.com/passy/5229305]
