@@ -43,3 +43,5 @@ Website metric template[http://metric.webflow.io/]
 Using Yeoman and Jade[https://gist.github.com/passy/5229305]
 
 Pretty Calendar JS [http://kylestetz.github.io/CLNDR/]
+
+Structure of RSpec tests [http://jakegoulding.com/presentations/rspec-structure/#slide-0]
