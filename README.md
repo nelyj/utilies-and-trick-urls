@@ -47,3 +47,5 @@ Pretty Calendar JS [http://kylestetz.github.io/CLNDR/]
 Structure of RSpec tests [http://jakegoulding.com/presentations/rspec-structure/#slide-0]
 
 DNS propagation [https://www.whatsmydns.net/]
+
+Check email black list [http://mxtoolbox.com/blacklists.aspx]
