@@ -49,3 +49,5 @@ Structure of RSpec tests [http://jakegoulding.com/presentations/rspec-structure/
 DNS propagation [https://www.whatsmydns.net/]
 
 Check email black list [http://mxtoolbox.com/blacklists.aspx]
+
+Scaling Ruby Apps to 1000 Requests per Minute - A Beginner's Guide [http://www.nateberkopec.com/2015/07/29/scaling-ruby-apps-to-1000-rpm.html]
